@@ -1,0 +1,27 @@
+{
+  "setup_complete": true,
+  "assistant": {
+    "name": "Luna",
+    "gender": "femenino"
+  },
+  "voice": {
+    "model_path": "C:/Users/usupr/Desktop/LunaArchivos/Modelos/es_AR-daniela-high.onnx",
+    "length_scale": 1.2,
+    "volume": 1.0
+  },
+  "apis": {
+    "openweather_api_key": "",
+    "spotify_client_id": "",
+    "spotify_client_secret": "",
+    "spotify_redirect_uri": "http://127.0.0.1:8888/callback"
+  },
+  "weather": {
+    "city": ""
+  },
+  "keyword_actions": [],
+  "ui": {
+    "theme": "pycharm_dark",
+    "run_in_background_on_close": true,
+    "run_on_startup": false
+  }
+}

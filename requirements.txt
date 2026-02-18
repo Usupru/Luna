@@ -1,0 +1,17 @@
+keyboard
+numpy
+pillow
+piper-tts
+psutil
+pyaudio
+pyautogui
+pyperclip
+pystray
+pyttsx3
+pywin32
+requests
+sounddevice
+spotipy
+vosk
+wikipedia
+winotify
