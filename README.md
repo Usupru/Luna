@@ -1,7 +1,7 @@
 <h1>🌙 Luna Assistant</h1>
 
-Luna is a Windows desktop voice assistant focused on fast actions, automation, and launcher-style workflows.
-It listens for hotkeys, recognizes Spanish voice commands, and runs built-in or custom actions on your own PC.
+Luna is a Windows desktop voice assistant focused on fast actions, automation, and customization.
+It listens for hotkeys, recognizes Spanish voice commands, and runs custom actions on your own PC.
 
 <img width="220" alt="Luna logo" src="LunaLogo.png" />
 
@@ -49,12 +49,13 @@ pip install piper-tts vosk keyboard psutil pyaudio pyautogui pyperclip pyttsx3 r
 
 <h3>Required assets</h3>
 
-Luna expects these folders (or equivalent paths via environment variables):
+Be aware that Luna expects these folders (or equivalent paths via environment variables):
 ````
 Sonidos/
 Modelos/
 Imagenes/
 ````
+Therefore, it is adviced for anyone looking to modify the source code, to download these folders via the windows installer.
 
 Common files:
 - `Sonidos/IniciarSound.wav`
