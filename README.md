@@ -32,7 +32,7 @@ Make sure you are on Windows and have Python 3.11+ installed.
 
 Clone the repository:
 ````
-git clone <TU_REPO_URL>
+git clone https://github.com/Usupru/Luna.git
 cd Luna
 ````
 
